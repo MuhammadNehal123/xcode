@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         print("ds")
-         print("nehal")
+         print("nehal")//hggfh
     }
 
 
