@@ -12,7 +12,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         print("ds")
-        print("dgfd")
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
